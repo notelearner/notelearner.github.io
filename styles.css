@@ -61,3 +61,8 @@ button:hover{
   height: 450px;
   margin-top: 40px;
 }
+.r12-container{
+  position:relative;
+  height: 100px;
+  margin-top: 40px
+}
