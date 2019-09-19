@@ -1,13 +1,25 @@
 (function() {
     const myQuestions = [
       {
+        question: "Ab",
+        answers: {
+        },
+        correctAnswer: "a"
+      },
+      {
         question: "A",
         answers: {
         },
         correctAnswer: "a"
       },
       {
-        question: "B",
+        question: "Bb",
+        answers: {
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Bb",
         answers: {
         },
         correctAnswer: "a"
@@ -19,7 +31,7 @@
         correctAnswer: "a"
       },
       {
-        question: "C#",
+        question: "Db",
         answers: {
         },
         correctAnswer: "a"
@@ -31,7 +43,7 @@
         correctAnswer: "a"
       },
       {
-        question: "D#",
+        question: "Eb",
         answers: {
         },
         correctAnswer: "a"
@@ -43,31 +55,19 @@
         correctAnswer: "a"
       },
       {
-        question: "E#",
-        answers: {
-        },
-        correctAnswer: "a"
-      },
-      {
         question: "F",
         answers: {
         },
         correctAnswer: "a"
       },
       {
-        question: "F#",
+        question: "Gb",
         answers: {
         },
         correctAnswer: "a"
       },
       {
         question: "G",
-        answers: {
-        },
-        correctAnswer: "a"
-      },
-      {
-        question: "G#",
         answers: {
         },
         correctAnswer: "a"
